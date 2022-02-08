@@ -1,7 +1,7 @@
-### Hello, my name is Gustavo Moreira 👋
+### Hello, my name is Gustavo Moreira 🧑‍💻
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Curso Engenharia de Software 
+- 🔭 Today I work as a back end
+- 📚 Bachelor's Degree in Software Engineering 
 
 <div align="center">
   <a href="https://github.com/GustavoMoreira30">
